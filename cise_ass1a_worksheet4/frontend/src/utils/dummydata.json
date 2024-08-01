@@ -49,6 +49,16 @@
         "doi": "https://doi.org/10.1109/esem.2007.35",
         "claim": "code quality improvement",
         "evidence": "weak against"
+      },
+      {
+        "_id": "6",
+        "title": "JavaScript Essentials",
+        "authors": "William Knight",
+        "source": "AUT",
+        "pubyear": "2024",
+        "doi": "18048290481029",
+        "claim": "code quality improvement",
+        "evidence": "weak against"
       }
     ]
   }
